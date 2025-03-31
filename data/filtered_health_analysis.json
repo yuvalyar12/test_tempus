@@ -1,0 +1,343 @@
+{
+  "days": {
+    "2024-05-01": {
+      "steps": 6209,
+      "calories": 210.97,
+      "sleep_minutes": 470,
+      "sleep_breakdown": {
+        "core": 294,
+        "rem": 119,
+        "deep": 57
+      },
+      "resting_heart_rate_avg": 52.0
+    },
+    "2024-05-02": {
+      "steps": 3464,
+      "calories": 165.9,
+      "sleep_minutes": 524,
+      "sleep_breakdown": {
+        "core": 338,
+        "rem": 119,
+        "deep": 67
+      },
+      "resting_heart_rate_avg": 56.0
+    },
+    "2024-05-03": {
+      "steps": 4081,
+      "calories": 173.59,
+      "sleep_minutes": 534,
+      "sleep_breakdown": {
+        "core": 320,
+        "rem": 144,
+        "deep": 70
+      },
+      "resting_heart_rate_avg": 54.0
+    },
+    "2024-05-04": {
+      "steps": 1735,
+      "calories": 119.72,
+      "sleep_minutes": 464,
+      "sleep_breakdown": {
+        "core": 290,
+        "rem": 139,
+        "deep": 35
+      }
+    },
+    "2024-05-05": {
+      "steps": 1444,
+      "calories": 18.11,
+      "sleep_minutes": 434,
+      "sleep_breakdown": {
+        "core": 334,
+        "rem": 93,
+        "deep": 8
+      },
+      "resting_heart_rate_avg": 51.0
+    },
+    "2024-05-06": {
+      "steps": 2772,
+      "calories": 15.14,
+      "sleep_minutes": 0,
+      "sleep_breakdown": {},
+      "resting_heart_rate_avg": 55.0
+    },
+    "2024-05-07": {
+      "steps": 8456,
+      "calories": 341.36,
+      "sleep_minutes": 400,
+      "sleep_breakdown": {
+        "core": 236,
+        "rem": 102,
+        "deep": 64
+      }
+    },
+    "2024-05-08": {
+      "steps": 8177,
+      "calories": 386.47,
+      "sleep_minutes": 452,
+      "sleep_breakdown": {
+        "core": 308,
+        "rem": 96,
+        "deep": 48
+      },
+      "resting_heart_rate_avg": 58.0
+    },
+    "2024-05-09": {
+      "steps": 3502,
+      "calories": 152.4,
+      "sleep_minutes": 452,
+      "sleep_breakdown": {
+        "core": 290,
+        "rem": 97,
+        "deep": 64
+      },
+      "resting_heart_rate_avg": 60.0
+    },
+    "2024-05-10": {
+      "steps": 6930,
+      "calories": 265.21,
+      "sleep_minutes": 243,
+      "sleep_breakdown": {
+        "core": 164,
+        "rem": 32,
+        "deep": 48
+      },
+      "resting_heart_rate_avg": 64.0
+    },
+    "2024-05-11": {
+      "steps": 1631,
+      "calories": 116.04,
+      "sleep_minutes": 0,
+      "sleep_breakdown": {},
+      "resting_heart_rate_avg": 67.5
+    },
+    "2024-05-12": {
+      "steps": 1741,
+      "calories": 104.57,
+      "sleep_minutes": 456,
+      "sleep_breakdown": {
+        "core": 308,
+        "rem": 88,
+        "deep": 58
+      }
+    },
+    "2024-05-13": {
+      "steps": 4375,
+      "calories": 228.43,
+      "sleep_minutes": 348,
+      "sleep_breakdown": {
+        "core": 209,
+        "rem": 74,
+        "deep": 66
+      },
+      "resting_heart_rate_avg": 56.0
+    },
+    "2024-05-14": {
+      "steps": 5358,
+      "calories": 192.63,
+      "sleep_minutes": 372,
+      "sleep_breakdown": {
+        "core": 216,
+        "rem": 110,
+        "deep": 46
+      }
+    },
+    "2024-05-15": {
+      "steps": 2909,
+      "calories": 19.02,
+      "sleep_minutes": 450,
+      "sleep_breakdown": {
+        "core": 250,
+        "rem": 126,
+        "deep": 73
+      },
+      "resting_heart_rate_avg": 57.0
+    },
+    "2024-05-16": {
+      "steps": 3427,
+      "calories": 180.1,
+      "sleep_minutes": 605,
+      "sleep_breakdown": {
+        "core": 374,
+        "rem": 176,
+        "deep": 54
+      }
+    },
+    "2024-05-17": {
+      "steps": 9629,
+      "calories": 400.85,
+      "sleep_minutes": 274,
+      "sleep_breakdown": {
+        "core": 160,
+        "rem": 62,
+        "deep": 52
+      },
+      "resting_heart_rate_avg": 62.5
+    },
+    "2024-05-18": {
+      "steps": 3924,
+      "calories": 95.17,
+      "sleep_minutes": 374,
+      "sleep_breakdown": {
+        "core": 224,
+        "rem": 87,
+        "deep": 64
+      }
+    },
+    "2024-05-19": {
+      "steps": 6213,
+      "calories": 130.14,
+      "sleep_minutes": 263,
+      "sleep_breakdown": {
+        "core": 169,
+        "rem": 38,
+        "deep": 56
+      },
+      "resting_heart_rate_avg": 59.0
+    },
+    "2024-05-20": {
+      "steps": 6573,
+      "calories": 281.16,
+      "sleep_minutes": 469,
+      "sleep_breakdown": {
+        "core": 265,
+        "rem": 128,
+        "deep": 76
+      },
+      "resting_heart_rate_avg": 54.0
+    },
+    "2024-05-21": {
+      "steps": 5155,
+      "calories": 209.48,
+      "sleep_minutes": 439,
+      "sleep_breakdown": {
+        "core": 272,
+        "rem": 112,
+        "deep": 54
+      },
+      "resting_heart_rate_avg": 60.0
+    },
+    "2024-05-22": {
+      "steps": 4078,
+      "calories": 200.37,
+      "sleep_minutes": 434,
+      "sleep_breakdown": {
+        "core": 268,
+        "rem": 106,
+        "deep": 60
+      },
+      "resting_heart_rate_avg": 55.0
+    },
+    "2024-05-23": {
+      "steps": 2858,
+      "calories": 99.72,
+      "sleep_minutes": 446,
+      "sleep_breakdown": {
+        "core": 278,
+        "rem": 118,
+        "deep": 49
+      },
+      "resting_heart_rate_avg": 58.0
+    },
+    "2024-05-24": {
+      "steps": 7956,
+      "calories": 377.75,
+      "sleep_minutes": 320,
+      "sleep_breakdown": {
+        "core": 160,
+        "rem": 86,
+        "deep": 74
+      },
+      "resting_heart_rate_avg": 63.0
+    },
+    "2024-05-25": {
+      "steps": 3358,
+      "calories": 98.09,
+      "sleep_minutes": 368,
+      "sleep_breakdown": {
+        "core": 231,
+        "rem": 88,
+        "deep": 49
+      }
+    },
+    "2024-05-26": {
+      "steps": 6269,
+      "calories": 261.51,
+      "sleep_minutes": 600,
+      "sleep_breakdown": {
+        "core": 404,
+        "rem": 88,
+        "deep": 109
+      },
+      "resting_heart_rate_avg": 56.5
+    },
+    "2024-05-27": {
+      "steps": 9725,
+      "calories": 332.66,
+      "sleep_minutes": 520,
+      "sleep_breakdown": {
+        "core": 342,
+        "rem": 170,
+        "deep": 8
+      }
+    },
+    "2024-05-28": {
+      "steps": 2706,
+      "calories": 114.72,
+      "sleep_minutes": 386,
+      "sleep_breakdown": {
+        "core": 258,
+        "rem": 73,
+        "deep": 56
+      },
+      "resting_heart_rate_avg": 60.0
+    },
+    "2024-05-29": {
+      "steps": 4749,
+      "calories": 213.41,
+      "sleep_minutes": 368,
+      "sleep_breakdown": {
+        "core": 199,
+        "rem": 86,
+        "deep": 82
+      },
+      "resting_heart_rate_avg": 56.0
+    },
+    "2024-05-30": {
+      "steps": 2840,
+      "calories": 119.56,
+      "sleep_minutes": 566,
+      "sleep_breakdown": {
+        "core": 384,
+        "rem": 136,
+        "deep": 44
+      },
+      "resting_heart_rate_avg": 58.0
+    },
+    "2024-05-31": {
+      "steps": 2035,
+      "calories": 12.89,
+      "sleep_minutes": 344,
+      "sleep_breakdown": {
+        "core": 194,
+        "rem": 85,
+        "deep": 64
+      }
+    }
+  },
+  "monthly_avg": {
+    "2024-05": {
+      "steps": 4654,
+      "calories": 181.84,
+      "sleep_minutes": 399,
+      "resting_heart_rate_avg": 58.3
+    }
+  },
+  "analysis": {
+    "most_restful_day": "Thursday",
+    "most_active_day": "Friday",
+    "most_caloric_day": "Friday",
+    "most_stressful_day": "Saturday",
+    "best_focus_hour": 20
+  }
+}
